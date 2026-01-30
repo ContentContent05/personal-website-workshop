@@ -74,13 +74,14 @@ export default function Home() {
   return (
     <div
       ref={containerRef}
-      className="relative h-[calc(100vh-3.5rem)] w-full overflow-hidden bg-zinc-50 font-sans dark:bg-black"
+      className="relative h-[calc(100vh-3.5rem)] w-full overflow-hidden bg-zinc-50 font-Recoleta dark:bg-black"
     >
       <div
         ref={dvdRef}
         className="absolute left-0 top-0 text-4xl font-semibold uppercase"
       >
-        My awesome and cool website
+        Marcus Fojas!
+        <img src = "/image.png" alt="Marcus Fojas" />
       </div>
     </div>
   );

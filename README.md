@@ -1,3 +1,7 @@
+THIS WEBSITE WAS "MADE" BY MARCUS FOJAS
+
+
+
 ## !! READ BEFORE STARTING !!
 You'll need Node.js 20.9+ for this repo to work. Visit https://nodejs.org to install it on your machine if you haven't already. You can run `node -v` in your terminal to check if it is already installed.
 
@@ -45,9 +49,13 @@ You can run either by prepending `npm run <script>` to them. For example, `npm r
 
 # Questions - MUST ANSWER TO BE ENTERED INTO RAFFLE!
 1. Briefly describe everything you've added on from the starter template.
+   I added new colors, new text, and an image of myself.
 
 2. What's the first impression you want a website visitor to have about you? How does your website accomplish that?
+   I want a website visitor to first have the impression that I am a semi-serious goof. My website accomplishes that by having very cursed formatting.
 
 3. What's your favorite part of the website you've made? What needs improvement?
+   My favorite part of the website is the bouncing image. For improvement, it needs to bounce with the walls and be centered to the text.
 
 4. Where would you take your website in the future? Talk about additonal sections, aspirations, etc.
+   I want to make my website actually professional looking. I feel like I should add subsections for each project and paper and aspire for it to look beautiful and artistic.
